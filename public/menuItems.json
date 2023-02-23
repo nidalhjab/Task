@@ -1,0 +1,9 @@
+{
+    "tabs": [
+      { "icon": "../icons/overview.svg", "title": "Overview" },
+      { "icon": "../icons/tickets.svg", "title": "Tickets" },
+      { "icon": "../icons/ideas.svg", "title": "Ideas" },
+      { "icon": "../icons/users.svg", "title": "Users" }
+    ]
+  }
+  
